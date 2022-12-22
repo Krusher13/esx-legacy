@@ -44,7 +44,7 @@ input {
 	font-family: 'Oswald', sans-serif;
 	color: #ffffff;
 	text-align:left;
-	background-color: #152029;
+	background-color: transparent;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
